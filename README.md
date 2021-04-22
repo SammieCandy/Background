@@ -1,1 +1,1 @@
-# Background project
+# Background generator
